@@ -23,3 +23,9 @@
 **Today's progress:** Almost done with the utilization of Bootstrap and the startup landing page. I learned how to use text-shadow in CSS! I still need to learn how to change the hover color for my Nav Bar and Buttons in CSS. I also learned how to add cool icons fron Font Awesome.
 
 **Thoughts:** I recently started learning CSS and Bootstrap and I feel more comfortable using it than before. Bootstrap was one of those things when first introduced, I was like "hmm...this is intimidating" but because I pushed myself to use it, I feel good learning more about it and notice how useful it is industry-wide and can save so much time.
+
+## Day 5: May 29, 2017
+
+**Today's Progress:** I finished the Bootstrap landing page for my Web Dev Bootcamp. I looking into CSS Animations but I think that I'm going to come back to it and fully immerse myself in it after my JavaScript lessons. I also wanted to contribute to the CSS Zen Garden project but I looked at some of the projects and their code and it seemed like they used JavaScript so I'm also going to come back to that.
+
+**Thoughts:** Sometimes I get overwhelmed and anxious because there's SO much to learn and so much that you can do with code and technology and a lot of it is out of my capabilities right now. I'm about to start my classes on JavaScript so that I can understand the fundamentals of what I can do within Front-End Development as well as Back-end. So I'm going to put animations and my CSS Zen Garden project on hold for a bit.
