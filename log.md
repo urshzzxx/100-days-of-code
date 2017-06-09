@@ -29,3 +29,38 @@
 **Today's Progress:** I finished the Bootstrap landing page for my Web Dev Bootcamp. I looking into CSS Animations but I think that I'm going to come back to it and fully immerse myself in it after my JavaScript lessons. I also wanted to contribute to the CSS Zen Garden project but I looked at some of the projects and their code and it seemed like they used JavaScript so I'm also going to come back to that.
 
 **Thoughts:** Sometimes I get overwhelmed and anxious because there's SO much to learn and so much that you can do with code and technology and a lot of it is out of my capabilities right now. I'm about to start my classes on JavaScript so that I can understand the fundamentals of what I can do within Front-End Development as well as Back-end. So I'm going to put animations and my CSS Zen Garden project on hold for a bit.
+
+## Day 6: May 31, 2017
+
+**Today's Progress:** I had a lecture on the 5 primitive datatypes of JavaScript: numbers, strings, booleans, null, and undefined. 
+
+**Thoughts:** I already knew the difference between the 5 datatypes but it felt good to refresh my memory. I'm definitely not comfortable with JavaScript yet but the way that the instructor explained the differences helped me understand these concepts.
+
+## Day 7: June 6, 2017
+
+I took a mini vacation from my job and coding for a few days to get myself together. I feel like I'm ready to take on the coding world again after a short break from life.
+
+**Today's Progress:** I learned about built-in JavaScript methods such as alert(), console.log, and prompt(). With this knowledge, I was able to create an age calculator using all three methods. Fun Fact: I've discovered that at 24 years old, the age calculator declares that I've been alive for roughly 8742 days!
+
+**Thoughts:** Reviewing the built-in methods felt good. What I liked about the lecture was that it was nice to have a visual of how each method works vs. reading about them, which I've done in the past. I felt like I had a better understanding of what these methods are used for when the instructor explained them.
+
+## Day 8: June 7, 2017
+
+**Today's Progress:** I had a lecture on Boolean logic, logic operators, and then did some exercising using conditionals. I also learned how to use the while loop!
+
+**Thoughts:** Learning these JavaScript basics again feels really good because I feel like I have a better understanding of how each method works. Infinite loops are scary! I broke my chrome browser by trying out one of the infinite loop examples so I had to restart my entire laptop. What if you create an infinite loop in a production program? That could be so bad! I like using if/else statements because it's as if I'm speaking in english, but really writing the logic in code. It's interesting, I'm excited for more exercises and practice on this.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
