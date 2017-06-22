@@ -4,7 +4,7 @@
 
 **Today's Progress:** The goal was to learn git and GitHub. I watched a bunch of tutorials on YouTube from DevTips and other channels. I also skipped to the lessons about git and github in my online bootcamp lessons and learned that git and github are two seperate things. I don't know how to use command line yet because I'm a newbie but I think once I have a grasp on that, using terminal would be easier. I learned how to clone a repo though!
 
-**Thoughts:** I got extremely stressed out and frustrated because I spent so much time watching tutorials on git and github and still felt like I didn't know how to use it. I wanted to log my progress and keep myself accountable for this challenge. I don't know how to commit and push changes onto github. But, I think once I play around with it a bit more I'll get it. 
+**Thoughts:** I got extremely stressed out and frustrated because I spent so much time watching tutorials on git and github and still felt like I didn't know how to use it. I wanted to log my progress and keep myself accountable for this challenge. I don't know how to commit and push changes onto github. But, I think once I play around with it a bit more I'll get it.
 
 ## Day 2: May 24, 2017
 
@@ -14,7 +14,7 @@
 
 ## Day 3: May 25, 2017
 
-**Today's Progress:** I got furthur with my Daenerys Targaryen landing page using Bootstrap. I added my own twist and went in my own direction from the Web Development Bootcamp code along and changed the color of the header and the text. 
+**Today's Progress:** I got furthur with my Daenerys Targaryen landing page using Bootstrap. I added my own twist and went in my own direction from the Web Development Bootcamp code along and changed the color of the header and the text.
 
 **Thoughts:** I'm excited to learn more about what CSS can do. Someone on Twitter recommended that I do a CSS animation to create a dragon for the landing page, which I thought was a dope idea so I want to learn some CSS animation very soon but I'm thinking about completing this project first, moving along to JavaScript and then coming back to it when I have more knowledge in code.
 
@@ -32,7 +32,7 @@
 
 ## Day 6: May 31, 2017
 
-**Today's Progress:** I had a lecture on the 5 primitive datatypes of JavaScript: numbers, strings, booleans, null, and undefined. 
+**Today's Progress:** I had a lecture on the 5 primitive datatypes of JavaScript: numbers, strings, booleans, null, and undefined.
 
 **Thoughts:** I already knew the difference between the 5 datatypes but it felt good to refresh my memory. I'm definitely not comfortable with JavaScript yet but the way that the instructor explained the differences helped me understand these concepts.
 
@@ -48,19 +48,16 @@ I took a mini vacation from my job and coding for a few days to get myself toget
 
 **Today's Progress:** I had a lecture on Boolean logic, logic operators, and then did some exercising using conditionals. I also learned how to use the while loop!
 
-**Thoughts:** Learning these JavaScript basics again feels really good because I feel like I have a better understanding of how each method works. Infinite loops are scary! I broke my chrome browser by trying out one of the infinite loop examples so I had to restart my entire laptop. What if you create an infinite loop in a production program? That could be so bad! I like using if/else statements because it's as if I'm speaking in english, but really writing the logic in code. It's interesting, I'm excited for more exercises and practice on this.
+**Thoughts:** Learning these JavaScript basics again feels really good because I feel like I have a better understanding of how each method works. Infinite loops are scary! I broke my chrome browser by trying out one of the infinite loop examples so I had to restart my entire laptop. What if you create an infinite loop in a production environment? That could be so bad! I like using if/else statements because it's as if I'm speaking in English, but really writing the logic in code. It's interesting, I'm excited for more exercises and practice on this.
 
+## Day 9: June 9, 2017
 
+**Today's Progress:** I made more progress in understanding Boolean logic in JavaScript. There were more exercises given in "The Web Developer Bootcamp" where we had to use conditionals and while loops and doing some math.
 
+**Thoughts:** I didn't think it was super intimidating because I'm comfortable with the loop syntax but I got stuck on using the mod % symbol when doing divisible. I'm able to use loops but I'm still not comfortable nesting loops within loops. Just with more practice, I should be fine. I'm going to move forward to the next lessons but will definitely come back to conditionals/loops to review some more so it's still fresh in memory!
 
+## Day 10: June 12, 2017
 
+**Today's Progress:** Today was all about understanding the difference between for loops and while loops and what each is used for. I did the same exercise as last time but this time using for loops.
 
-
-
-
-
-
-
-
-
-
+**Thoughts:** I think that because I keep taking small breaks between my 100 Days (which I need to stop), things feel harder each time? I know that if I was consistent with it, I would grasp the material right away. I've had a couple things going on. Even though I could have made time to do some code, I was inconsistent but I'm going to try to do some lessons over so that I'm not forgetting how JavaScript Loops work.
