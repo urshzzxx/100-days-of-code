@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
-## Day 1: June 25, 2017
+## Day 1: June 27, 2017
 
-**Today's Progress:** The goal was to learn git and GitHub. I watched a bunch of tutorials on YouTube from DevTips and other channels. I also skipped to the lessons about git and github in my online bootcamp lessons and learned that git and github are two seperate things. I don't know how to use command line yet because I'm a newbie but I think once I have a grasp on that, using terminal would be easier. I learned how to clone a repo though!
+**Today's Progress:** I finished the HTML5 and CSS section of fCC. It was a refresher because I'm trying to catch up fCC with my Web Developer Bootcamp so that I can do JavaScript on both and gain two perspectives.
 
-**Thoughts:** I got extremely stressed out and frustrated because I spent so much time watching tutorials on git and github and still felt like I didn't know how to use it. I wanted to log my progress and keep myself accountable for this challenge. I don't know how to commit and push changes onto github. But, I think once I play around with it a bit more I'll get it.
+**Thoughts:** Overall, I'm already quite comfortable with HTML/CSS and googling things if I don't know something but it's always good to review everything. I'm not a big fan of freeCodeCamp's environment to code, but I thought the tutorials were helpful. They had a great explanation on hex colors, padding, and margins. 
