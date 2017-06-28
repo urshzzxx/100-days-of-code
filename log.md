@@ -4,4 +4,10 @@
 
 **Today's Progress:** I finished the HTML5 and CSS section of fCC. It was a refresher because I'm trying to catch up fCC with my Web Developer Bootcamp so that I can do JavaScript on both and gain two perspectives.
 
-**Thoughts:** Overall, I'm already quite comfortable with HTML/CSS and googling things if I don't know something but it's always good to review everything. I'm not a big fan of freeCodeCamp's environment to code, but I thought the tutorials were helpful. They had a great explanation on hex colors, padding, and margins. 
+**Thoughts:** Overall, I'm already quite comfortable with HTML/CSS and googling things if I don't know something but it's always good to review everything. I'm not a big fan of freeCodeCamp's environment to code, but I thought the tutorials were helpful. They had a great explanation on hex colors, padding, and margins.
+
+## Day 2: June 28, 2017
+
+**Today's Progress:** Went over Bootstrap on freeCodeCamp and manually used some of the Bootstrap elements.
+
+**Thoughts:** If I had to compare the tutorials on Bootstrap between the Web Developer Bootcamp vs freeCodeCamp, I think fCC has really good explanations using each element and nesting it into the HTML/CSS. I struggled with Bootstrap previously during the bootcamp and got very confused with columns and rows but fCC has a thorough explanation so I'm understanding how to use it. 
