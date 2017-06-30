@@ -14,6 +14,12 @@
 
 ## Day 3: June 29, 2017
 
-**Today's Progress:** I finished all the exercises on freeCodeCamp covering Bootstrap. I'm going to start the jQuery exercises and try to knock those out too. jQuery seems fun to learn. 
+**Today's Progress:** I finished all the exercises on freeCodeCamp covering Bootstrap. I'm going to start the jQuery exercises and try to knock those out too. jQuery seems fun to learn.
 
 **Thoughts:** I've decided that I'm not a big fan of Bootstrap. I like vanilla CSS. fCC does a good job explaining the classes and elements of Bootstrap but not really how to do research and modify them on our own. I didn't like Bootstrap when I was learning it in the Web Developer Bootcamp either because I feel like it just takes longer to use it than to use CSS/SASS. But I'm aware of how to use the framework if needed.
+
+## Day 4: June 30, 2017
+
+**Today's Progress:** I worked on jQuery exercises on freeCodeCamp, I have 8 more to go! jQuery is super fun and creative so I'm looking forward to learning more throughout the next few tutorials.
+
+**Thoughts:** I'm feeling good! I like jQuery, I think it's extremely creative and I'm enjoying learning about selectors. I thought the animation selectors were really fun to work with. I definitely want to do more research on them so that I can get comfortable using this framework. I also think I may try the freeCodeCamp's vanilla CSS tribute challenge. I'm still not a fan of the little mobile demo on the side on fCC. ):
