@@ -23,3 +23,9 @@
 **Today's Progress:** I worked on jQuery exercises on freeCodeCamp, I have 8 more to go! jQuery is super fun and creative so I'm looking forward to learning more throughout the next few tutorials.
 
 **Thoughts:** I'm feeling good! I like jQuery, I think it's extremely creative and I'm enjoying learning about selectors. I thought the animation selectors were really fun to work with. I definitely want to do more research on them so that I can get comfortable using this framework. I also think I may try the freeCodeCamp's vanilla CSS tribute challenge. I'm still not a fan of the little mobile demo on the side on fCC. ):
+
+## Day 5: July 2, 2017
+
+**Today's Progress:** I skipped one day because I was really bad with time management but today I finished the exercises practicing jQuery and made a codepen.io account! I'm excited for my first Front-End Development Project.
+
+**Thoughts:** I thought jQuery was fun, I liked the how the lesson ended with the "hinge" animation. It was a nice dramatic touch. jQuery doesn't seem that complicated but I feel like I need to go over it a few times to fully understand and grasp it. I don't think I would know what to do/use if I was given a task on my own to use jQuery. 
