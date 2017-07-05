@@ -36,6 +36,9 @@
 
 **Thoughts:** I had a little bit of trouble getting started because I do this thing where I freeze and am like, "...what do I do?!" but I got it together and created the HTML skeleton and everything started falling into place. I definitely need to sketch out my ideas and look for inspiration to help me execute my vision in the beginning stages of web development.
 
+
+![Sketch](http://i63.tinypic.com/2zs0hs6.jpg)
+
 ## Day 7: July 4, 2017
 
 **Today's Progress:** I made some more progress on the tribute page. It's a tribute for Tame Impala. I'm going to create multiple pages so that it's an actual responsive website. Tame Impala is my pretend client!
