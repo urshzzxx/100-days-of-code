@@ -28,4 +28,22 @@
 
 **Today's Progress:** I skipped one day because I was really bad with time management but today I finished the exercises practicing jQuery and made a codepen.io account! I'm excited for my first Front-End Development Project.
 
-**Thoughts:** I thought jQuery was fun, I liked the how the lesson ended with the "hinge" animation. It was a nice dramatic touch. jQuery doesn't seem that complicated but I feel like I need to go over it a few times to fully understand and grasp it. I don't think I would know what to do/use if I was given a task on my own to use jQuery. 
+**Thoughts:** I thought jQuery was fun, I liked the how the lesson ended with the "hinge" animation. It was a nice dramatic touch. jQuery doesn't seem that complicated but I feel like I need to go over it a few times to fully understand and grasp it. I don't think I would know what to do/use if I was given a task on my own to use jQuery.
+
+## Day 6: July 3, 2017
+
+**Today's Progress:** I worked on the tribute page with just vanilla CSS on codepen.io. It's still a work in progress. I'm going to pretend that I'm making an actual page for a client.
+
+**Thoughts:** I had a little bit of trouble getting started because I do this thing where I freeze and am like, "...what do I do?!" but I got it together and created the HTML skeleton and everything started falling into place. I definitely need to sketch out my ideas and look for inspiration to help me execute my vision in the beginning stages of web development.
+
+## Day 7: July 4, 2017
+
+**Today's Progress:** I made some more progress on the tribute page. It's a tribute for Tame Impala. I'm going to create multiple pages so that it's an actual responsive website. Tame Impala is my pretend client!
+
+**Thoughts:** I'm not comfortable using Bootstrap but I have to practice it a bit more to get used to the framework. I got frustrated with trying to hide the bullet points in my unordered list but I googled what I needed. It took some time but I played around with the code and it worked! I didn't nearly spend as much time as I should have on the page though. I'm also very comfortable using the git commands in terminal now!
+
+## Day 8: July 5, 2017
+
+**Today's Progress:**
+
+**Thoughts:**
