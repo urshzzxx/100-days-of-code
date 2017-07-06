@@ -36,7 +36,6 @@
 
 **Thoughts:** I had a little bit of trouble getting started because I do this thing where I freeze and am like, "...what do I do?!" but I got it together and created the HTML skeleton and everything started falling into place. I definitely need to sketch out my ideas and look for inspiration to help me execute my vision in the beginning stages of web development.
 
-
 ![Sketch](http://i63.tinypic.com/2zs0hs6.jpg)
 
 ## Day 7: July 4, 2017
@@ -47,6 +46,6 @@
 
 ## Day 8: July 5, 2017
 
-**Today's Progress:**
+**Today's Progress:** Made some progress on the tribute page. I played around with fonts for the header. Thinking about adding some jQuery animations to it.
 
-**Thoughts:**
+**Thoughts:** I got frustrated because I'm having a creative block. I know what I want my website to look like but I feel like I spent so much time tweaking one small thing (the header) that I got stuck and then forgot how to do everything else. So I'm stepping away until tmr.
