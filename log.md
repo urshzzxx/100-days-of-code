@@ -22,9 +22,9 @@
 
 ## Day 2: July 14, 2017
 
-**Today's Progress:** I completed the Intro to For Loops exercises on Web Developer Bootcamp. It was similar to the while loops exercises. I also finished JavaScript Functions tutorials and exercises, which covered functions syntax, arguments, return, scope and higher order functions.
+**Today's Progress:** I completed the Intro to For Loops exercises on Web Developer Bootcamp. It was similar to the while loops exercises. I also finished JavaScript Functions tutorials and exercises, which covered functions syntax, arguments, and return.
 
-**Thoughts:** Colt Steele's exercises are great. He teaches you how to google information if you don't know something so I've been trying master this skill; it'll be useful in the long run. I was frustrated with figuring out how to get a function to return a factorial of a number so I worked on it for a little bit, did some googling, and plugged in a few things and realized it worked! I needed the problem solution explanation though to understand why this is how the function returned a factorial. 
+**Thoughts:** Colt Steele's exercises are great. He teaches you how to google information if you don't know something so I've been trying master this skill; it'll be useful in the long run. I was frustrated with figuring out how to get a function to return a factorial of a number so I worked on it for a little bit, did some googling, and plugged in a few things and realized it worked! I needed the problem solution explanation though to understand why this is how the function returned a factorial.
 
 ```
 function factorial(num) {
@@ -37,3 +37,11 @@ function factorial(num) {
   return result;
 }
 ```
+
+## Day 3: July 15, 2017
+
+**Today's Progress:** I worked through scopes and higher order functions on Web Developer Bootcamp. I learned about passing function into other functions.
+
+**Thoughts:** I think higher order functions are a bit confusing. I played around with it for a little bit to create my own and it's cool but I want to see how they work in an actual running app/production website.
+
+![image](http://i68.tinypic.com/jutzqx.png)
