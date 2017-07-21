@@ -66,9 +66,25 @@ function factorial(num) {
 
 ## Day 7: July 19, 2017
 
-**Today's Progress:** I worked on Array Iteration today. I learned how to iterate through arrays using for loops and forEach.
+**Today's Progress:** I worked on Array Iteration today and a little bit of Part Two of the To Do List Code Along. I learned how to iterate through arrays using for loops and forEach. My focus was on the forEach() function.
 
-**Thoughts:** I struggled understanding how to use forEach(). I know that it iterates through an array but I'm still struggling with the passing functions within functions. I feel like the code gets messy and then my thought process gets messy - but then again, I didn't understand for loops in the beginning either so...practice makes perfect!
+**Thoughts:** I struggled understanding how to use forEach(). I know that it iterates through an array but I was still struggling with the passing functions within functions. So I looked it up on MDN and decided I'd try out a few things with my code:
+
+1. I didn't understand why the first parameter is just a placeholder for the currentValue.
+2. When Colt Steele wanted to add an index, I didn't get that either until I realized that the second parameter represents the index in a forEach().
+3. The third parameter is the array that the forEach() is being applied to.
+
+I used all the parameters because I was curious what they would do.
+
+```
+if(input === "list") {
+  toDoList.forEach(function(todo, i, toDoList) {
+    console.log(i + ": " + todo + toDoList);
+  });
+
+```
+
+I know that in the exercise, we were supposed to print the list out AS A LIST with its index #'s. I wasn't grasping how the forEach just *knew* to print the index of the array. Although the code above looked very ugly when I applied all three parameters, I understand how the forEach() method works! YAY.
 
 ## Day 8: July 20, 2017
 
@@ -82,9 +98,3 @@ window.onload = function() {
 ```
 
 I wanted to understand what would make my HTML page load before my JavaScript. Even though it didn't really work, I now know there is another solution!
-
-## Day 9: July 20, 2017
-
-**Today's Progress:**
-
-**Thoughts:**
