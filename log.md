@@ -120,7 +120,7 @@ So this kept printing an empty array. I tried changing around the .reverse() met
 
 **Thoughts:** I know that knowing how to do research and googling things is part of the industry so I utilize Stack Overflow quite a bit but I feel like I've been pretty good at finding/plugging things into my code and somehow, making it work - it almost feels like it's cheating??? Is this normal?!
 
-So I worked on isUniform() and this is what I did:
+So I worked on **isUniform()** and this is what I did:
 
 ```
 function isUniform(array) {
@@ -133,7 +133,7 @@ function isUniform(array) {
 }
 ```
 
-vs. Colt Steele
+**Colt Steele**:
 
 ```
 function isUniform(arr) {
@@ -150,9 +150,9 @@ function isUniform(arr) {
 I honestly have no idea what I did and why it worked but I understood the second one a lot more because I know that I needed to keep track of the first element and if it's not equal to the first then return false. I understand the logic a lot more in the solution than what I attempted to do.
 
 
-sumArray(): I used a for loop in this one and Colt Steele's solution used a forEach. I still don't feel comfortable using forEach, nor do I know when to use them. Does this get better the more you use them in daily applications?
+**sumArray()**: I used a for loop in this one and Colt Steele's solution used a forEach. I still don't feel comfortable using forEach, nor do I know when to use them. Does this get better the more you use them in daily applications?
 
-My code:
+**My code:**
 
 ```
 function sumArray(num) {
@@ -164,7 +164,7 @@ function sumArray(num) {
 }
 ```
 
-Colt Steele:
+**Colt Steele:**
 
 ```
 function sumArray(arr) {
@@ -176,9 +176,9 @@ function sumArray(arr) {
 }
 ```
 
-And then in the last exercise, max(), where the function is supposed to look for the maximum number in an array, I was close!
+And then in the last exercise, **max()**, where the function is supposed to look for the maximum number in an array, I was close!
 
-This is what I did:
+**This is what I did:**
 ```
 function max(arr) {
   var max = 0;
