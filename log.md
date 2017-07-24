@@ -74,7 +74,7 @@ function factorial(num) {
 2. When Colt Steele wanted to add an index, I didn't get that either until I realized that the second parameter represents the index in a forEach().
 3. The third parameter is the array that the forEach() is being applied to.
 
-I used all the parameters because I was curious what they would do.
+I used all the parameters because I was curious what they would do (a snippet of my code):
 
 ```
 if(input === "list") {
@@ -83,6 +83,10 @@ if(input === "list") {
   });
 
 ```
+
+And this is what I ended up with:
+
+![image](http://i68.tinypic.com/1236ttx.pngx)
 
 I know that in the exercise, we were supposed to print the list out AS A LIST with its index #'s. I wasn't grasping how the forEach just *knew* to print the index of the array. Although the code above looked very ugly when I applied all three parameters, I understand how the forEach() method works! YAY.
 
@@ -98,3 +102,93 @@ window.onload = function() {
 ```
 
 I wanted to understand what would make my HTML page load before my JavaScript. Even though it didn't really work, I now know there is another solution!
+
+## Day 9: July 21, 2017
+
+**Today's Progress:** I worked on the Array Problem Set but decided I'd focus on just the first problem - printReverse() - and spent some time on that.
+
+**Thoughts:** I struggled with this one! I spent a couple of hours trying to figure it out. What I came up with was this:
+
+![image](http://i63.tinypic.com/2j4djfd.png)
+(there is a typo in it. artists.length is supposed to be array.length)
+
+So this kept printing an empty array. I tried changing around the .reverse() method and printing different things but I got frustrated eventually so I slept on it. I don't want to look at the solution right away so I'm going to spend some time on it tomorrow!
+
+## Day 10: July 23, 2017
+
+**Today's Progress:** Finished the Array Problem Set. I spent time working on each problem while also trying to understand what I did. I worked on isUniform(), sumArray(), and max() on Web Developer Bootcamp.
+
+**Thoughts:** I know that knowing how to do research and googling things is part of the industry so I utilize Stack Overflow quite a bit but I feel like I've been pretty good at finding/plugging things into my code and somehow, making it work - it almost feels like it's cheating??? Is this normal?!
+
+So I worked on isUniform() and this is what I did:
+
+```
+function isUniform(array) {
+  for(var i = 0; i < array.length -1; i++) {
+    if(array[i] !== array[i+1]) {
+      return false
+    }
+  }
+  return true
+}
+```
+
+vs. Colt Steele
+
+```
+function isUniform(arr) {
+  var first = arr[0];
+  for(var i = 1; i < arr.length; i++){
+    if(arr[i] !== first) {
+      return false;
+    }
+  }
+  return true;
+}
+```
+
+I honestly have no idea what I did and why it worked but I understood the second one a lot more because I know that I needed to keep track of the first element and if it's not equal to the first then return false. I understand the logic a lot more in the solution than what I attempted to do.
+
+
+sumArray(): I used a for loop in this one and Colt Steele's solution used a forEach. I still don't feel comfortable using forEach, nor do I know when to use them. Does this get better the more you use them in daily applications?
+
+My code:
+
+```
+function sumArray(num) {
+  var result = 0;
+  for(var i = 0; i < num.length; i++) {
+    result += num[i];
+  }
+  return result;
+}
+```
+
+Colt Steele:
+
+```
+function sumArray(arr) {
+  var total = 0;
+  arr.forEach(function(element){
+    total += element;
+  });
+  return total;
+}
+```
+
+And then in the last exercise, max(), where the function is supposed to look for the maximum number in an array, I was close!
+
+This is what I did:
+```
+function max(arr) {
+  var max = 0;
+  for(var i = 0; i < arr.length; i++) {
+    if(arr[i] > max) {
+      max = arr[i];
+    }
+  }
+  return max;
+}
+```
+
+Where I messed up was that my variable wasn't equaled to ``` var max = arr[0] ``` I know that once I start using these methods more, I'll understand how/why they work the way they work.
