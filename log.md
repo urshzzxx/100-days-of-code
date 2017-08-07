@@ -218,11 +218,12 @@ Where I messed up was that my variable wasn't equaled to ``` var max = arr[0] ``
 
 **Thoughts:** I feel great! Selectors were a completely foreign language to me when I first started learning about the DOM. Now that I've come back to it, I understand it and I think it's so interesting. I learned about the 5 selectors:
 
-``getElementById``
-``getElementsByClassName``
-``getElementsByTagName``
-``querySelector``
-``querySelectorAll``
+```getElementById
+getElementsByClassName
+getElementsByTagName
+querySelector
+querySelectorAll
+```
 
 These are pretty self explanatory now because I know what ID, Class, Tags, and CSS-style elements are. When I first looked at the DOM, I freaked out and questioned taking this entire path because I was so stuck and my fear kicked in. Now that I know a little bit more, I understand it. I did pretty well on the exercise too. However, when I was doing some google research, I know that writing code like this ```document.querySelector("div.user-panel.main input[name='login']");``` is going to be difficult and I'm going to need time to learn.
 
@@ -264,9 +265,10 @@ tag.style.marginTop = "200px";
 
 **Thoughts:** Feeling good! I understood that I needed to start my code off with ```var button = document.querySelector("button");``` to select the ```<button></button>``` element and then I added the event listener by writing
 
-``button.addEventListener("click", function() {
+```button.addEventListener("click", function() {
   document.body.style.background = "#9841f4";
-  });``
+  });
+```
 
 After that I didn't know what to do so I tried out a few different things and watched the solution video. Definitely need more practice.
 
