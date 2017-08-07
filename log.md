@@ -266,8 +266,8 @@ tag.style.marginTop = "200px";
 **Thoughts:** Feeling good! I understood that I needed to start my code off with ```var button = document.querySelector("button");``` to select the ```<button></button>``` element and then I added the event listener by writing
 
 ```button.addEventListener("click", function() {
-  document.body.style.background = "#9841f4";
-  });
+     document.body.style.background = "#9841f4";
+});
 ```
 
 After that I didn't know what to do so I tried out a few different things and watched the solution video. Definitely need more practice.
