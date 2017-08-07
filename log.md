@@ -192,3 +192,128 @@ function max(arr) {
 ```
 
 Where I messed up was that my variable wasn't equaled to ``` var max = arr[0] ``` I know that once I start using these methods more, I'll understand how/why they work the way they work.
+
+
+## Day 11: July 24, 2017
+
+**Today's Progress:** I moved on from arrays to objects. Completed three lessons on Web Developer Bootcamp in addition to using MDN to practice writing my own objects.
+
+**Thoughts:** I feel good about this. So I know the basic structure of an object ``` var someObj = { key: value } ``` which is a data structure that holds information. I liked the dictionary analogy given. These lessons were a bit tedious/refreshers because I remember objects from previous tutorials. I think they are a lot more fun to write than arrays and a lot less confusing to access.
+
+## Day 12: July 25, 2017
+
+**Today's Progress:** I learned about objects within arrays and arrays within objects and completed the Movie Database exercise.
+
+**Thoughts:** This was confusing! It didn't help that my motivation level today was very low. I wish that the instructor would use for loops instead of ```forEach()```. I'm still confused about how to use ```forEach()``` - it's scary! - but I guess I should practice exercises using it and see if they work. The lessons that involve code alongs are usually boring for me because I feel like I'm just watching tutorials. But I got through objects, so yay!
+
+## Day 13: July 26, 2017
+
+**Today's Progress:** Learned about JS Methods - putting functions inside of objects and the keyword ```this```. Also practiced more of ```forEach()```. I tried writing the Movie Database exercise with a ```for loop``` and failed miserably.
+
+**Thoughts:** I spent about 2 hours writing the Movie Database exercise using a ```for loop```. I struggled and couldn't figure out what I was doing right/wrong so I decided to eventually move on from it. I'm going to pick it back up again and play around with it but for now I moved on to Web Developer Bootcamp lessons on JS Methods and learning about the keyword ```this```.
+
+## Day 14: July 27, 2017
+
+**Today's Progress:** I STARTED DOM MANIPULATION TODAY! This is exciting because this is where I got stuck last time and "gave up" because I didn't have any knowledge in HTML/CSS. I spent time learning about selectors.
+
+**Thoughts:** I feel great! Selectors were a completely foreign language to me when I first started learning about the DOM. Now that I've come back to it, I understand it and I think it's so interesting. I learned about the 5 selectors:
+
+``getElementById``
+``getElementsByClassName``
+``getElementsByTagName``
+``querySelector``
+``querySelectorAll``
+
+These are pretty self explanatory now because I know what ID, Class, Tags, and CSS-style elements are. When I first looked at the DOM, I freaked out and questioned taking this entire path because I was so stuck and my fear kicked in. Now that I know a little bit more, I understand it. I did pretty well on the exercise too. However, when I was doing some google research, I know that writing code like this ```document.querySelector("div.user-panel.main input[name='login']");``` is going to be difficult and I'm going to need time to learn.
+
+## Day 15: July 28, 2017
+
+**Today's Progress:** I worked on The DOM style manipulation, text and content, and attributes. I haven't gotten to build anything yet but I played around with the DOM code:
+
+```var body = document.querySelector("body");
+var isPurple = false;
+
+setInterval(function() {
+  if(isPurple) {
+    body.style.background = "white";
+  } else {
+    body.style.background = "#9841f4";
+  }
+  isPurple = !isPurple;
+}, 1000);
+
+var tag = document.getElementById("highlight");
+tag.style.color = "blue";
+tag.style.border = "10px solid red";
+tag.style.fontSize = "70px";
+tag.style.background = "yellow";
+tag.style.marginTop = "200px";
+```
+
+**Thoughts:** I'm not sure how I feel! I have so many questions and I also feel like I wouldn't know where to begin if I was given a problem...but who knows? So I learned about the separation of concerns where **HTML** is the structure, **Javascript** is the behavior and **CSS** is the presentation. If we have a CSS style sheet, what's the point of style manipulation? Is it to add interactivity? It's essentially the same thing as a style sheet? Wouldn't it override some of the CSS styles if we use style manipulation? Is it just a form of problem-solving?
+
+## Day 16: July 29, 2017
+
+**Today's Progress:** I spent an hour doing the Google Code Along and playing around with the DOM methods.
+
+**Thoughts:** I thought this was cool! I see how these methods can be used for debugging. I can't wait to learn about interactivity!
+
+## Day 17: July 30, 2017
+
+**Today's Progress:** Coded for an hour - learned about ```addEventListener``` and then played around with the Color Toggle game on Web Dev Bootcamp.
+
+**Thoughts:** Feeling good! I understood that I needed to start my code off with ```var button = document.querySelector("button");``` to select the ```<button></button>``` element and then I added the event listener by writing
+
+``button.addEventListener("click", function() {
+  document.body.style.background = "#9841f4";
+  });``
+
+After that I didn't know what to do so I tried out a few different things and watched the solution video. Definitely need more practice.
+
+## Day 18: July 31, 2017
+
+**Today's Progress:** Score Keep Project Part 1 & 2
+
+**Thoughts:**
+
+## Day 19: August 1, 2017
+
+**Today's Progress:** Other Types of Events: To Do List/ Counting Events Exercise - JavaScript and jQuery
+
+**Thoughts:**
+
+## Day 20: August 2, 2017
+
+**Today's Progress:**
+
+**Thoughts:**
+
+## Day 21: August 3, 2017
+
+**Today's Progress:**
+
+**Thoughts:**
+
+## Day 22: August 4, 2017
+
+**Today's Progress:**
+
+**Thoughts:**
+
+## Day 23: August 5, 2017
+
+**Today's Progress:**
+
+**Thoughts:**
+
+## Day 24: August 6, 2017
+
+**Today's Progress:**
+
+**Thoughts:**
+
+## Day 25: August 7, 2017
+
+**Today's Progress:**
+
+**Thoughts:**
