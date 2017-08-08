@@ -274,9 +274,11 @@ After that I didn't know what to do so I played around with ```setInterval()``` 
 
 ## Day 18: July 31, 2017
 
-**Today's Progress:** Score Keep Project Part 1 & 2
+**Today's Progress:** I worked on the Score Keeper Game for a couple of hours. I did my own thing and added some CSS styling so that I can practice some CSS!
 
-**Thoughts:**
+**Thoughts:** This was SO fckin' cool! But it was a challenge. When Colt Steele explains the methods and logic, it doesn't seem so hard. But when I have to do it myself...on my own...without any hand holding...that's where I get stuck and I know it can take me HOURS to do a simple task. And that's the scary part because what if I don't get it???!! Although I do believe these code-alongs help you develop a programmer thought-process. This is what I did to my game - yes I could have made it prettier but I wanted to move on to the next lesson.
+
+![image](http://i63.tinypic.com/x3sfu1.png)
 
 ## Day 19: August 1, 2017
 
