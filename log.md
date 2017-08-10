@@ -3,9 +3,10 @@
 ## Goal:
 1. Finish Web Developer Bootcamp
 2. Flatiron School Bootcamp Prep
-  - Ruby Fundamentals
-  - JavaScript
+    - Ruby Fundamentals
+    - JavaScript
 3. Read JavaScript & jQuery by Jon Duckett
+4. Get into Flatiron School In-Person Immersive Program
 
 
 ## Day 1: August 10, 2017
