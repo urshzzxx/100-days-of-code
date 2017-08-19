@@ -76,8 +76,8 @@
 
 ## Day 9: August 18, 2017
 
-**Today's Progress:** Worked on and finished the Beauty Routine list. Added my own CSS styling to it. The project adds and removes a beauty routine product that the user can enter into the app.
+**Today's Progress:** Worked on and finished the Beauty Routine list. Added my own CSS styling to it. The project adds and removes a beauty routine product that the user can enter into the app. I also added a little moon icon using font-awesome so I thought that was cute!
 
-**Thoughts:** It's really cool to see the functionality of something like this because we enter and remove information all the time. I thought it was cool when the value typed into the ```input``` was extracted and entered into a list-form. I think jQuery is awesome and seems simple to use instead of the complex logic. It was fun building something that I can actually use. I definitely want to come back to this and add more to the styling because I think it looks a bit plain right now, maybe add animation when I learn it.
+**Thoughts:** I went back to using ```append()``` instead of ```prepend()``` because it made more sense to add new values to the bottom (in this case at least bc it's in order). It's really cool to see the functionality of something like this because we enter and remove information all the time. I thought it was also cool when the value typed into the ```input``` was extracted and entered into a list-form. I think jQuery is awesome and seems simple to use instead of the complex logic. It was fun building something that I can actually use. I definitely want to come back to this and add more styling because I think it looks a bit plain right now, maybe add animation when I learn it.
 
 ![image](https://media.giphy.com/media/l1KvLXg0QqntYnGhi/giphy.gif)
