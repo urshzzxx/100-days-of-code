@@ -34,6 +34,50 @@
 
 **Today's Progress:** Continued to work on the Color Game. I added my own CSS instead of following exactly what the game looked like. I think it looks so cute.
 
-**Thoughts:** Feeling good! This is SO dope. The fact that I learned how to generate random colors from code is so cool. It's interesting to see how JavaScript brought a game to life. And even though this isn't something that I came up with on my own, it's so cool to be able to see it function and have fun with it. I'm more aware of the concepts and methods and how to use them as a form of problem solving so I think that's a plus. I can't wait to learn more and build more. DOM Manipulation is so, so interesting. 
+**Thoughts:** Feeling good! This is SO dope. The fact that I learned how to generate random colors from code is so cool. It's interesting to see how JavaScript brought a game to life. And even though this isn't something that I came up with on my own, it's so cool to be able to see it function and have fun with it. I'm more aware of the concepts and methods and how to use them as a form of problem solving so I think that's a plus. I can't wait to learn more and build more. DOM Manipulation is so, so interesting.
 
 ![image](https://media.giphy.com/media/3oEhmG4Emd0pLO56r6/giphy.gif)
+
+## Day 3: August 12, 2017
+
+**Today's Progress:** Finished the Color Game Project, learned about refactoring the code, and started Intro to jQuery.
+
+**Thoughts:** I thought the RBG Color Game project was so fckin' cool and I felt like I was finally taught to make something worthy of sharing! I'm still extremely fascinated about seeing the code come to life. I was getting a little bored with the lessons because I learn by ~ doing ~ so I thought this was a really great project. I'm going to re-do it after I finish my jQuery lessons so that I have a better understanding of refactoring, how methods are used, and possibly try to add my own JavaScript twist to it.
+
+## Day 4: August 13, 2017
+
+**Today's Progress:** Coded for an hour. Sat through the entire Intro to jQuery on Web Developer Bootcamp and took some notes.
+
+**Thoughts:** It's interesting to learn the difference between vanilla Javascript and jQuery. I thought DOM Manipulation was hard when I first learned it but now that I have a better understanding of it, jQuery seems pretty cool. I have trouble with for loops so this makes life so much easier.
+
+## Day 5: August 14, 2017
+
+**Today's Progress:** Sat through the Advanced jQuery lessons for about an hour while also doing my own research on the methods ```click()```, ```keypress()```, ```keyup()```, ```keydown()``` ```on()```. Also looked into http://youmightnotneedjquery.com/.
+
+**Thoughts:** Feeling ok! It's a little boring because I'm not building anything but it's interesting to know these things/how to use the jQuery library. To me, jQuery still looks like the shorter method because for loops trip me up. Like I think ```$(el).fadeIn();``` is pretty cool vs. writing it in vanilla JS, which is A LOT of code. Can't wait to actually build something with this though.
+
+## Day 6: August 15, 2017
+
+**Today's Progress:** Started the To-Do List project on Web Dev Bootcamp. I learned about folder structure and how to add libraries to my code. I also went over some basic HTML and sketched out what I wanted to create for this since I'm going to make it my own.
+
+**Thoughts:** I think this project is going to be fun. Instead of creating a To-Do list though, I'm going to create a beauty routine list because I identify with that a lot more.
+
+## Day 7: August 16, 2017
+
+**Today's Progress:** Coded for an hour and continued with the To-Do List project, except it's called the Beauty Routine project now because I made it my own, haha.
+
+**Thoughts:** I feel like I'm building something worthwhile and I'm excited. ```toggleClass``` makes the code so much shorter in jQuery!!! SO COOL.
+
+## Day 8: August 17, 2017
+
+**Today's Progress:** Coded for an hour. Continued to work on my Beauty Routine project.
+
+**Thoughts:** Instead of using ```append()``` in jQuery, I wanted to add something new at the top of my Beauty Routine List instead of the bottom so I learned about ```prepend()``` and used that instead. So I'm feeling ok! I'm excited to learn more about functionality.
+
+## Day 9: August 18, 2017
+
+**Today's Progress:** Worked on and finished the Beauty Routine list. Added my own CSS styling to it. The project adds and removes a beauty routine product that the user can enter into the app.
+
+**Thoughts:** It's really cool to see the functionality of something like this because we enter and remove information all the time. I thought it was cool when the value typed into the ```input``` was extracted and entered into a list-form. I think jQuery is awesome and seems simple to use instead of the complex logic. It was fun building something that I can actually use. I definitely want to come back to this and add more to the styling because I think it looks a bit plain right now, maybe add animation when I learn it.
+
+![image](https://media.giphy.com/media/l1KvLXg0QqntYnGhi/giphy.gif)
