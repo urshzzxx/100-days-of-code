@@ -60,7 +60,7 @@
 
 **Today's Progress:** Started the To-Do List project on Web Dev Bootcamp. I learned about folder structure and how to add libraries to my code. I also went over some basic HTML and sketched out what I wanted to create for this since I'm going to make it my own.
 
-**Thoughts:** I think this project is going to be fun. Instead of creating a To-Do list though, I'm going to create a beauty routine list because I identify with that a lot more.
+**Thoughts:** I think this project is going to be fun. Instead of creating a To-Do list though, I'm going to create a beauty routine list because I identify with that a lot more. I was confused with the folder structure though because on my laptop, the folders show a file named ```.DS_Store``` and I have no idea what that means and then adding the links from folder trees was confusing too. But definitely something to get used to!
 
 ## Day 7: August 16, 2017
 
@@ -81,3 +81,9 @@
 **Thoughts:** I went back to using ```append()``` instead of ```prepend()``` because it made more sense to add new values to the bottom (in this case at least bc it's in order). It's really cool to see the functionality of something like this because we enter and remove information all the time. I thought it was also cool when the value typed into the ```input``` was extracted and entered into a list-form. I think jQuery is awesome and seems simple to use instead of the complex logic. It was fun building something that I can actually use. I definitely want to come back to this and add more styling because I think it looks a bit plain right now, maybe add animation when I learn it.
 
 ![image](https://media.giphy.com/media/l1KvLXg0QqntYnGhi/giphy.gif)
+
+## Day 10: August 19, 2017
+
+**Today's Progress:** I started the Flatiron School Bootcamp Prep course. My goal is to finish this course so that I can get into the In-person immersive program! I completed the HTML and CSS Fundamentals.
+
+**Thoughts:** Feeling good! I feel like I have a good grasp on HTML/CSS. I thought the CSS Diner game was really fun and helpful and a nice refresher on the basics. It's also quite addicting so I played that for a bit. Here's the link: http://flukeout.github.io/
