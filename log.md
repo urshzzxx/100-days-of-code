@@ -86,4 +86,19 @@
 
 **Today's Progress:** I started the Flatiron School Bootcamp Prep course. My goal is to finish this course so that I can get into the In-person immersive program! I completed the HTML and CSS Fundamentals.
 
-**Thoughts:** Feeling good! I feel like I have a good grasp on HTML/CSS. I thought the CSS Diner game was really fun and helpful and a nice refresher on the basics. It's also quite addicting so I played that for a bit. Here's the link: http://flukeout.github.io/
+**Thoughts:** Feeling good! I feel like I have a good grasp on HTML/CSS. I thought the CSS Diner game was really fun and helpful and a nice refresher on the basics. It's also quite addicting so I played that for a bit. There are definitely some CSS selectors that I could use help with so this game made me realize where I need and it's definitely worth playing a few times. I learned about
+- Combine Class selectors ```A:className```
+- ```:first-child```
+- ```:only-child```
+- ```:last-child```
+- Sibling selectors ```A ~ B```
+- ```:nth-child```
+
+AND THEN
+- ```[attribute^="value"]```
+- ```[attribute$="value"]```
+- ```[attribute*="value"]```
+
+These stood out to me because I was actually asked in a technical interview way back when I was new at coding to changing my code to select everything that starts with the letter 'B' and I didn't know how, haha, but PLAY THE GAME!
+
+Here's the link: http://flukeout.github.io/
