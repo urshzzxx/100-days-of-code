@@ -6,7 +6,7 @@
     - Ruby Fundamentals
     - JavaScript
 3. Read JavaScript & jQuery by Jon Duckett
-4. Get into Flatiron School In-Person Immersive Program
+4. Get into a In-Person Immersive Program in one of the three bootcamps.
 
 
 ## Day 1: August 10, 2017
@@ -43,6 +43,9 @@
 **Today's Progress:** Finished the Color Game Project, learned about refactoring the code, and started Intro to jQuery.
 
 **Thoughts:** I thought the RBG Color Game project was so fckin' cool and I felt like I was finally taught to make something worthy of sharing! I'm still extremely fascinated about seeing the code come to life. I was getting a little bored with the lessons because I learn by ~ doing ~ so I thought this was a really great project. I'm going to re-do it after I finish my jQuery lessons so that I have a better understanding of refactoring, how methods are used, and possibly try to add my own JavaScript twist to it.
+
+Here's the finished project as of right now:
+![image](https://media.giphy.com/media/l3fzCHFzlGV0wDUBy/giphy.gif)
 
 ## Day 4: August 13, 2017
 
@@ -102,3 +105,91 @@ AND THEN
 These stood out to me because I was actually asked in a technical interview way back when I was new at coding to changing my code to select everything that starts with the letter 'B' and I didn't know how, haha, but PLAY THE GAME!
 
 Here's the link: http://flukeout.github.io/
+
+## Day 11: August 20, 2017
+
+**Today's Progress:** Read two articles on CSS Selectors: "The 30 CSS Selectors You Must Memorize" and "Meet Pseduo Class Selectors" and then proceeded with JavaScript Basics on Bootcamp Prep.
+
+**Thoughts:** Is it actually possible to memorize all of these selectors? I wrote down notes and am making myself aware of them but...memorizing something I can google if needed to use seems like a better option. I definitely think I'll look over that article once more though.
+
+## Day 12: August 21, 2017
+
+**Today's Progress:** Refreshed my memory on JavaScript Basics, learned about the History of JavaScript, reviewed The Dom and different selectors using The DOM.
+
+**Thoughts:** Feeling good! I'm getting comfortable with ```document.querySelector``` and their attributes. I learned about retrieving links by added ```.text``` and ```.href``` to the end of ```document.querySelector('a')```.
+
+## Day 13: August 22, 2017
+
+**Today's Progress:*** Reviewed Strings & Numbers on Bootcamp Prep and learned about ```innerHTML``` and ```parseInt()```.
+
+**Thoughts:** I forgot about getting a second ```class``` or ```id``` and then I remembered ```querySelectorAll()[1]``` gets the second class name. And then in order to convert a string into a number you have to use ```parseInt()``` so it doesn't just append to a string.
+
+## Day 14: August 23, 2017
+
+**Today's Progress:*** I learned what Node.js finally is! In the Bootcamp Prep course, I downloaded the Learn program to set up the coding environment and then reviewed conditionals again with some exercises.
+
+**Thoughts:** I'm thinking that I should create my own conditional statements just to practice more but other than that, feeling good.
+
+## Day 15: August 24, 2017
+
+**Today's Progress:*** Went over Node Practice in Bootcamp Prep and did research on what ```require()``` means in the code. Did some test labs since this course is very test based and I used the terminal to ```npm install mocha```.
+
+**Thoughts:** I like the Learn app because it's similar to atom.io and I feel like I'm actually writing code. I also like the test runs because it feels like a challenge.
+
+## Day 16: August 25, 2017
+
+**Today's Progress:** Worked through the Bootcamp Prep Functions and Scope lessons and labs.
+
+**Thoughts:** This section wasn't that hard for me because I'm pretty comfortable with what variables and functions are. Scopes are a little confusing - I know the difference between global scope and local scope but accessing a "secret scope" within a function was confusing for me.
+
+## Day 17: August 26, 2017
+
+**Today's Progress:** I reviewed arrays and how to manipulate them and then used the methods to complete the arrays lab.
+
+**Thoughts:** I'm feeling ok! When I worked on the lab, I was confused about destructively adding/removing elements on an array and non-destructive methods. I was more confused about the ```spread operator``` so I had trouble with the exercises because in the past, I've only been taught the ```push()``` and ```unshift()``` method. When does one use the ```spread operator``` really? I have to do more research. But I understand that if I'm adding an element to the end of an array, I would write ```["element", ...array]``` and if I'm adding something to the beginning, I would write ```[...array, "element"]```.
+
+## Day 18: August 27, 2017
+
+**Today's Progress:** Reviewed Objects and worked on the Objects Lab on Bootcamp Prep.
+
+**Thoughts:** I learned about the literal syntax and the object constructor. I know how to use the literal syntax to create an object but I'm still a bit shaky with the object constructor as well as ```object.Assign()```. I definitely need to do more reading on non-destructive methods because I don't understand when to use them.
+
+## Day 19: August 28, 2017
+
+**Today's Progress:** Worked on the loops lab on Bootcamp Prep. Man oh man, I definitely needed to review loops. I learned about the ```for loop```, ```while loop``` and ```do-while loop```.
+
+**Thoughts:** So pretty much the ```for loop``` is used when you know how many times you're going to want the loop to run. The prompt was:
+
+Build a function ```forLoop```. It takes an array as an argument. Start counting from 0, and, using a ```for``` loop, add a string to the array 25 times. But not just any string. If your ```i``` value is ```1```, add the string ```"I am 1 strange loop."```; if your ```i``` value is anything else, add the string ```"I am ${i} strange loops."```. Then return the array. So the code I wrote was this:
+
+``function forLoop(array) {
+  for(var i = 0; i < 25; i++) {
+    if(i === 1) {
+      array.push("I am 1 strange loop.");
+    } else {
+      array.push(`I am ${i} strange loops.`);
+    }
+  }
+
+  return array
+};``
+
+If my ```i``` value is equal to ```1``` then I added the string ```I am 1 strange loop``` onto the array with the ```push()``` method. If it was anything else, I added ```I am ${i} strange loops.``` which executed the loop 25 times. I tested it out in console and got a few errors because I was using ```var array = [];``` in the beginning to add onto an empty string and then quickly realized that it wouldn't work so I commented it out and the test passed without it!
+
+## Day 20: August 29, 2017
+
+**Today's Progress:** Continued to work on the loops lab. This time I practiced using the ```while-loop``` and ```do-while loop.```
+
+**Thoughts:** I DO NOT like the ```do-while loop```. I feel like the ```for loop``` and ```while loop``` are pretty straightforward with what it's look for. The ```do-while loop``` is so confusing! I definitely got stuck and I don't fully understand why we have to specify that the loop is going to be 50% true or not. I understand that the body of the ```do-while``` loop runs at least once but I'm not sure how/when to use this loop. So this lab was definitely harder.
+
+## Day 21: August 30, 2017
+
+**Today's Progress:** Beatles Loops
+
+**Thoughts:**
+
+## Day 22: August 31, 2017
+
+**Today's Progress:** Deli Counter, Online Shopping
+
+**Thoughts:**
