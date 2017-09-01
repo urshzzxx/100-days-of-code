@@ -45,6 +45,7 @@
 **Thoughts:** I thought the RBG Color Game project was so fckin' cool and I felt like I was finally taught to make something worthy of sharing! I'm still extremely fascinated about seeing the code come to life. I was getting a little bored with the lessons because I learn by ~ doing ~ so I thought this was a really great project. I'm going to re-do it after I finish my jQuery lessons so that I have a better understanding of refactoring, how methods are used, and possibly try to add my own JavaScript twist to it.
 
 Here's the finished project as of right now:
+
 ![image](https://media.giphy.com/media/l3fzCHFzlGV0wDUBy/giphy.gif)
 
 ## Day 4: August 13, 2017
@@ -162,7 +163,7 @@ Here's the link: http://flukeout.github.io/
 
 Build a function ```forLoop```. It takes an array as an argument. Start counting from 0, and, using a ```for``` loop, add a string to the array 25 times. But not just any string. If your ```i``` value is ```1```, add the string ```"I am 1 strange loop."```; if your ```i``` value is anything else, add the string ```"I am ${i} strange loops."```. Then return the array. So the code I wrote was this:
 
-``function forLoop(array) {
+```function forLoop(array) {
   for(var i = 0; i < 25; i++) {
     if(i === 1) {
       array.push("I am 1 strange loop.");
@@ -172,7 +173,8 @@ Build a function ```forLoop```. It takes an array as an argument. Start counting
   }
 
   return array
-};``
+};
+```
 
 If my ```i``` value is equal to ```1``` then I added the string ```I am 1 strange loop``` onto the array with the ```push()``` method. If it was anything else, I added ```I am ${i} strange loops.``` which executed the loop 25 times. I tested it out in console and got a few errors because I was using ```var array = [];``` in the beginning to add onto an empty string and then quickly realized that it wouldn't work so I commented it out and the test passed without it!
 
@@ -184,9 +186,26 @@ If my ```i``` value is equal to ```1``` then I added the string ```I am 1 strang
 
 ## Day 21: August 30, 2017
 
-**Today's Progress:** Beatles Loops
+**Today's Progress:** I worked on the Beatles Loop Lab on Bootcamp Prep. I struggled with this one because it's my first real solo lab that has nothing to do with practice material.
 
-**Thoughts:**
+**Thoughts:** It was frustrating because I'm not comfortable with while-loops. I did pretty well with the first prompt by playing around with the code and re-reading the directions. The second prompt I had trouble with. The scenario was:
+
+Create a function johnLennonFacts. This function will accept one argument, an array of facts about John Lennon. Use a while loop to loop over the facts array and add ```"!!!"``` to the end of every fact. The function should return an array of strings with exclamation points.
+
+I knew that the first thing I needed to do was to create the function that took in facts as the argument ```function johnLennonFacts(facts) {
+
+}```
+
+And then return an array of strings so this could be named anything. THEN, in the code, I would have to create an empty array because I have to add ```"!!!"``` to it along with the ```facts```. So my code looked like this:
+
+```function johnLennonFacts(facts) {
+  var shoutedFacts = [];
+  //while loop
+  return shoutedFacts;
+}
+```
+
+And then I got stuck and spent a couple hours googling how to use a ```while loop```. I struggled because I'm pretty comfortable using ```for loops``` but ```while loops``` are tricky because they require a counter and I'm trying to get used to the fact that counting from 0 just means that it's at index 0 even if I'm looping through an array.
 
 ## Day 22: August 31, 2017
 
