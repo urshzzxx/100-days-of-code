@@ -163,7 +163,7 @@ Here's the link: http://flukeout.github.io/
 
 Build a function ```forLoop```. It takes an array as an argument. Start counting from 0, and, using a ```for``` loop, add a string to the array 25 times. But not just any string. If your ```i``` value is ```1```, add the string ```"I am 1 strange loop."```; if your ```i``` value is anything else, add the string ```"I am ${i} strange loops."```. Then return the array. So the code I wrote was this:
 
-```function forLoop(array) {
+``` function forLoop(array) {
   for(var i = 0; i < 25; i++) {
     if(i === 1) {
       array.push("I am 1 strange loop.");
@@ -192,13 +192,16 @@ If my ```i``` value is equal to ```1``` then I added the string ```I am 1 strang
 
 Create a function johnLennonFacts. This function will accept one argument, an array of facts about John Lennon. Use a while loop to loop over the facts array and add ```"!!!"``` to the end of every fact. The function should return an array of strings with exclamation points.
 
-I knew that the first thing I needed to do was to create the function that took in facts as the argument ```function johnLennonFacts(facts) {
+I knew that the first thing I needed to do was to create the function that took in facts as the argument
 
-}```
+``` function johnLennonFacts(facts) {
+
+}
+```
 
 And then return an array of strings so this could be named anything. THEN, in the code, I would have to create an empty array because I have to add ```"!!!"``` to it along with the ```facts```. So my code looked like this:
 
-```function johnLennonFacts(facts) {
+``` function johnLennonFacts(facts) {
   var shoutedFacts = [];
   //while loop
   return shoutedFacts;
